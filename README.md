@@ -10,7 +10,7 @@ This repository publishes the downloads of **Oxrion Desktop**, the free app for 
 
 With Oxrion Desktop you:
 
-- **Protect** PHP files, folders or ZIP archives with your Encoder Key (from the [Oxrion Console](https://console.oxrion.com)). One protected file runs on every supported PHP version (8.1–8.5).
+- **Protect** PHP files, folders or ZIP archives with your Encoder Token (from the [Oxrion Console](https://console.oxrion.com)). One protected file runs on every supported PHP version (8.1–8.5).
 - **License** your code to each customer: sign per-host licenses offline, keep a License History, email licenses and send webhooks.
 - **Recover** your original source offline with your own recovery key.
 - **Keep your keys** in the Vault, one encrypted file on your computer.
@@ -45,3 +45,7 @@ On Windows (PowerShell), compare the output of `Get-FileHash .\oxrion-protection
 - [Documentation](https://docs.oxrion.com) — start with the [Quick start](https://docs.oxrion.com/getting-started/quick-start/)
 - [Pricing](https://oxrion.com/pricing) — free plan available
 - Questions or problems: [oxrion.com/contact](https://oxrion.com/contact)
+
+## License
+
+Free to use under the [Oxrion Software License](https://oxrion.com/legal/software-license) — see [LICENSE](LICENSE). The software is proprietary; its source is not published.
